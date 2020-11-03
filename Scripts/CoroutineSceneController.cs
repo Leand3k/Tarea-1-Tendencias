@@ -17,7 +17,7 @@ public class CoroutineSceneController : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-           
+           SetShapesRed();
         }
     }
 
